@@ -15,7 +15,7 @@ elif option == 4:
     c = a/b
     print("\nThe Division of the numbers are. ", c, "\n")
 elif option == 5: 
-    c = (a+b)/2
+    c = (a+b)/2    
     print("\nThe Mean value of the numbers are. ", c, "\n")
 else:
     print("\nInvalid Option\n")
