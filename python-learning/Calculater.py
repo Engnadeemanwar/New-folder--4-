@@ -1,5 +1,6 @@
-a = float(input("Enter first value: "))
-b = float(input("Enter second value: "))
+a = int(input("Enter first value: "))
+b = int(input("Enter second value: "))
+c : float
 option = int(input("\nFor multiplication press 1\nFor addition press 2\nFor subtraction press 3\nFor division press 4\nFor mean press 5 \n\n"))
 
 if option == 1:
